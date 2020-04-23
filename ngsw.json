@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587643745025,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.0cff1e9000f61441b995.js",
+        "/main-es5.0cff1e9000f61441b995.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.442fa3cc45520cc0d518.js",
+        "/polyfills-es5.fd3af48698f9b02947d9.js",
+        "/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/runtime-es5.0811dcefd377500b5b1a.js",
+        "/styles.8682c36f4499bc02c4bc.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/logo/446ce8f2-d953-449b-b348-1974c0b7de3b_200x200.png",
+        "/assets/img/logo/avatar.png",
+        "/assets/img/logo/baniya.jpg",
+        "/assets/img/logo/box.png",
+        "/assets/img/logo/email-message.png",
+        "/assets/img/logo/logo.png",
+        "/assets/img/logo/truck.png",
+        "/assets/img/slider/1.jpg",
+        "/assets/img/slider/2.jpg",
+        "/assets/img/slider/3.jpg",
+        "/assets/img/slider/4.jpg",
+        "/assets/img/slider/award.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/logo/446ce8f2-d953-449b-b348-1974c0b7de3b_200x200.png": "8322a2ab09f21809cedf44548f12e7d527afd318",
+    "/assets/img/logo/avatar.png": "59a0e1d68d5dd11875ee66da71ed162d5b2473c6",
+    "/assets/img/logo/baniya.jpg": "3e8c01c9d6e880f4ba6e6617ddf0c5137a25a61a",
+    "/assets/img/logo/email-message.png": "5c2d801e82815a967a4d4b7f31b927c06b4147f2",
+    "/assets/img/logo/logo.png": "a3f39c71203f6d05127a6b07e7a20e0653892d5e",
+    "/assets/img/logo/truck.png": "aee04205fc83a3584894d24d92499e53a597fbb4",
+    "/assets/img/slider/1.jpg": "c21a23cd5785f1c60ae3d448bdb8e212ff609eb1",
+    "/assets/img/slider/2.jpg": "23e952f60a665f78c14a1f7c3d7f41c51f8bb395",
+    "/assets/img/slider/3.jpg": "1682009a9014ad8efaa8b96a1bc09a770b6e5681",
+    "/assets/img/slider/4.jpg": "119581962b25e0a6d1dffee1b84142da3773a360",
+    "/assets/img/slider/award.jpg": "335c2c5c2aba5f829d0f8a1bd12f20601fc37072",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "c0eb28e93acb90f843394e9e562be159d46cc99b",
+    "/main-es2015.0cff1e9000f61441b995.js": "5c2590caa0184711baf107304ba99f9c89a39d72",
+    "/main-es5.0cff1e9000f61441b995.js": "6880592d22127b18cb859afd759516e97e6cc971",
+    "/manifest.webmanifest": "f3f4ddc5a1364500ed444aa3b0e41044a7376f01",
+    "/polyfills-es2015.442fa3cc45520cc0d518.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
+    "/polyfills-es5.fd3af48698f9b02947d9.js": "29c3dfd16faa921dd49165f318f9eed12a2f3be7",
+    "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.8682c36f4499bc02c4bc.css": "6d28237fb95014387a2b5e693f6a872d8ae5eab6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
